@@ -1,0 +1,8 @@
+
+*.svn-base
+
+.DS_Store
+
+conf/.svn/all-wcprops
+
+conf/.svn/entries
